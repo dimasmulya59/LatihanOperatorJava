@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd8e62c1-9ee2-4bff-bc07-51aa78ba2cb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jufrin/Pengulangan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/.idea/LatihanOperatorJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/dimastri/OperatorAritmatika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/dimastri/OperatorLogika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/dimastri/OperatorPembanding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/dimastri/OperatorTernary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/jufrin/OperatorArimatika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/jufrin/OperatorTernary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LatihanOperatorJava/jufrin/TipeData.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MBfB5DlKUYzdtiiRG2sfqGiwTS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/JUFRIN/OneDrive/Documents/IT/github/LatihanOperatorJava",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TipeData">
+    <configuration name="OperatorArimatika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jufrin.OperatorArimatika" />
+      <module name="LatihanOperatorJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jufrin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jufrin.OperatorTernary" />
+      <module name="LatihanOperatorJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jufrin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipeData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jufrin.TipeData" />
+      <module name="LatihanOperatorJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jufrin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TipeData" />
+        <item itemvalue="Application.OperatorTernary" />
+        <item itemvalue="Application.OperatorArimatika" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd8e62c1-9ee2-4bff-bc07-51aa78ba2cb6" name="Changes" comment="" />
+      <created>1677245757246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677245757246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jufrin/TipeData.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
