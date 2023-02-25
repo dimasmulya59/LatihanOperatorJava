@@ -18,15 +18,15 @@ public class PemasukanScanner {
         System.out.print("MASUKAN UMUR     = ");
         umur = in.nextInt();
         System.out.print("UNIVERSITAS ANDA = ");
-        universitas = in.nextLine();
+        universitas = in.next();
         System.out.print("MASUKAN NOMOEHP  = ");
         nomorhp = in.nextLong();
         System.out.print("MASUKAN ID       = ");
         noid = in.nextLong();
         System.out.print("MASUKAN TINGGI   = ");
         tinggi = in.nextDouble();
-        System.out.print("PERKERJAAN ANDA = ");
-        perkerjaan = in.nextLine();
+        System.out.print("PERKERJAAN ANDA  = ");
+        perkerjaan = in.next();
         hobi = umur% 2==0 ? "CATUR" : "KACANGKU";
 
         System.out.println("========DATA DIRI=========");
@@ -41,19 +41,6 @@ public class PemasukanScanner {
         System.out.println("MASUKAN NOMOEHP  = "+nomorhp);
         System.out.println("MASUKAN ID       = "+noid);
         System.out.println("MASUKAN TINGGI   = "+tinggi+ "Cm");
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
