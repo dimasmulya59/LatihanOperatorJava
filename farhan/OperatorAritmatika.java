@@ -6,10 +6,12 @@ public class OperatorAritmatika{
             int b=2;
             int c=10;
             int hasil;
-
+            
             hasil = a + b + c;
             System.out.println(hasil);
 
+            hasil = a * b * c;
+            System.out.println(hasil);
 
         }
 }
