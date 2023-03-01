@@ -11,7 +11,7 @@ public class PengulanganWhileScanner {
         while ( kacangamanis != 0){
             kacangamanis = kacang.nextInt();
 
-            System.out.println("okeyyy!!!");
+            System.out.print("masukan lagi = ");
         }
 
     }
