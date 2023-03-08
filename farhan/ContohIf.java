@@ -11,7 +11,7 @@ public class ContohIf{
 
         if(umur > 18){
             System.out.println("Dewasa" );
-        } else if (umur <= 18){
+        } else if (umur < 18){
             System.out.println("Masih kecil  ");
         }
 
