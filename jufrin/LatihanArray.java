@@ -2,6 +2,6 @@ package jufrin;
 
 public class LatihanArray {
 
-    int angka;
+    int angka;//
 
 }
