@@ -8,6 +8,6 @@ public class DoWhile {
             System.out.println(i+"Kacang");
             i--;
         }
-        while (i>n);
+        while (i>n);//1
     }
 }
